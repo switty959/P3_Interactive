@@ -46,7 +46,7 @@ while True:
       
 
     #creating a window with a name and what should be displayed
-    cv2.imshow("Face",img)
+    #cv2.imshow("Face",img)
     #print(count)
     if  countFace > 0:
         data = "Face without smile"
