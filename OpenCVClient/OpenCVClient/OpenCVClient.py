@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 import socket
+
 host, port = "127.0.0.1", 25001
 data = "true"
 
@@ -65,7 +66,12 @@ while True:
     s.sendall(data.encode("utf-8"))
     #Data = s.recv(1024).decode("utf-8")
     #print(countFace)
-        
+    if cv2.waitKey(1) == ord('w'):
+        lowerParameter +=0.10
+
+    if cv2.waitKey(1) == ord('s'):
+        lowerParameter =lowerParameter-0.10
+
 
     #killing the windows with webcam feedback
     if cv2.waitKey(1) == ord('q'):
