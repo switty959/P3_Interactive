@@ -1422,3 +1422,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.03-11.16.21:558][660]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment_Set/Maps/Realtime_Environment_Map' took 0.024
 [2019.12.03-11.26.22:231][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2019.12.03-11.26.22:231][453]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment_Set/Maps/Realtime_Environment_Map' took 0.025
+[2019.12.03-11.36.22:782][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.12.03-11.36.22:782][248]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment_Set/Maps/Realtime_Environment_Map' took 0.029
