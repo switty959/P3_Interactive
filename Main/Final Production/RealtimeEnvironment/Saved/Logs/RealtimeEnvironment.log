@@ -1,0 +1,1426 @@
+﻿Log file open, 12/03/19 10:57:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RealtimeEnvironment
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.406484
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SocketServer
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA GeForce GTX 1070 with Max-Q Design
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/Metro Exodus/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Engine.ini]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Engine.ini]
+[2019.12.03-09.57.52:713][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Engine.ini]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Engine.ini]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.03-09.57.52:713][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.03-09.57.52:714][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.03-09.57.52:714][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.03-09.57.52:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Engine.ini]
+[2019.12.03-09.57.52:714][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Engine.ini]
+[2019.12.03-09.57.52:750][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.03-09.57.52:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.03-09.57.52:751][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.03-09.57.52:760][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.03-09.57.52:760][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.03-09.57.52:801][  0]LogHAL: Display: Platform has ~ 16 GB [17094856704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.03-09.57.52:805][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.12.03-09.57.52:805][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.03-09.57.52:806][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:806][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.03-09.57.52:806][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2019.12.03-09.57.52:806][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:806][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.03-09.57.52:806][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:806][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.03-09.57.52:806][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.03-09.57.52:806][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.03-09.57.52:806][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.03-09.57.52:806][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.03-09.57.52:806][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.03-09.57.52:806][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.03-09.57.52:806][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.03-09.57.52:807][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.03-09.57.52:818][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.03-09.57.52:818][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.03-09.57.52:818][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Config/Windows/Engine.ini]
+[2019.12.03-09.57.52:823][  0]LogInit: Computer: LAPTOP-O87E22VR
+[2019.12.03-09.57.52:823][  0]LogInit: User: danie
+[2019.12.03-09.57.52:823][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.03-09.57.52:823][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.03-09.57.52:823][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.03-09.57.52:823][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.03-09.57.52:823][  0]LogMemory: Process Physical Memory: 101.13 MB used, 101.14 MB peak
+[2019.12.03-09.57.52:823][  0]LogMemory: Process Virtual Memory: 92.62 MB used, 92.62 MB peak
+[2019.12.03-09.57.52:823][  0]LogMemory: Physical Memory: 9314.89 MB used,  6988.04 MB free, 16302.93 MB total
+[2019.12.03-09.57.52:823][  0]LogMemory: Virtual Memory: 4663.64 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.12.03-09.57.53:505][  0]LogInit: Using OS detected language (en-GB).
+[2019.12.03-09.57.53:505][  0]LogInit: Using OS detected locale (en-DK).
+[2019.12.03-09.57.53:554][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.12.03-09.57.54:370][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.03-09.57.55:198][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.03-09.57.55:198][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.03-09.57.58:741][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.12.03-09.57.58:741][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.03-09.57.58:894][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (Feature Level 11_0)
+[2019.12.03-09.57.58:894][  0]LogD3D11RHI:       8081/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.03-09.57.58:901][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.03-09.57.58:901][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.03-09.57.58:901][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.03-09.57.58:920][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.03-09.57.58:920][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.03-09.57.58:920][  0]LogWindows: EnumDisplayDevices:
+[2019.12.03-09.57.58:920][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:1 D:1)
+[2019.12.03-09.57.58:921][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.12.03-09.57.58:921][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.12.03-09.57.58:922][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 with Max-Q Design' (P:0 D:0)
+[2019.12.03-09.57.58:922][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.03-09.57.58:922][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 with Max-Q Design
+[2019.12.03-09.57.58:922][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.12.03-09.57.58:922][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.12.03-09.57.58:922][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.12.03-09.57.58:994][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.03-09.57.59:800][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.03-09.57.59:801][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.03-09.57.59:801][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.03-09.57.59:905][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.03-09.58.01:272][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.03-09.58.01:318][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.03-09.58.01:364][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.03-09.58.01:404][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.03-09.58.01:461][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.03-09.58.01:519][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.03-09.58.01:562][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.03-09.58.01:608][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.03-09.58.01:645][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.03-09.58.01:839][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.03-09.58.01:875][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.03-09.58.02:086][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.03-09.58.02:086][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.03-09.58.02:145][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.03-09.58.02:145][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.03-09.58.02:189][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.03-09.58.02:224][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.03-09.58.02:257][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.03-09.58.02:302][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.03-09.58.02:383][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.03-09.58.02:383][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.03-09.58.02:383][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.03-09.58.02:529][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.03-09.58.03:124][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Intermediate/Shaders/WorkingDirectory/18148/).
+[2019.12.03-09.58.03:125][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/danie/AppData/Local/Temp/UnrealShaderWorkingDir/089C551340D1F1609B5B9EACD71FC26A/'.
+[2019.12.03-09.58.03:182][  0]LogXGEController: Cleaning working directory: C:/Users/danie/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.03-09.58.03:182][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.03-09.58.03:182][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.03-09.58.03:182][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.03-09.58.07:018][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.03-09.58.07:168][  0]LogDerivedDataCache: Loaded boot cache 0.15s 71MB C:/Users/danie/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.03-09.58.07:168][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/danie/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.12.03-09.58.07:168][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.03-09.58.07:168][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.03-09.58.07:168][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.03-09.58.07:168][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.03-09.58.07:221][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.03-09.58.07:221][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.03-09.58.07:221][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.03-09.58.07:235][  0]LogDerivedDataCache: Using Local data cache path C:/Users/danie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.03-09.58.07:235][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.03-09.58.07:235][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.03-09.58.07:281][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.03-09.58.07:330][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.03-09.58.07:424][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.03-09.58.08:341][  0]LogAssetRegistry: FAssetRegistry took 0.0419 seconds to start up
+[2019.12.03-09.58.11:938][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.03-09.58.13:492][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.03-09.58.13:492][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.03-09.58.13:492][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.03-09.58.13:492][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.03-09.58.13:494][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.03-09.58.13:656][  0]LogNetVersion: RealtimeEnvironment 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4161269944)
+[2019.12.03-09.58.16:904][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.110598 seconds
+[2019.12.03-09.58.16:925][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.12.03-09.58.16:925][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.12.03-09.58.16:925][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.03-09.58.26:812][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.03-09.58.26:864][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.03-09.58.27:906][  0]SourceControl: Source control is disabled
+[2019.12.03-09.58.27:920][  0]SourceControl: Source control is disabled
+[2019.12.03-09.58.28:022][  0]SourceControl: Source control is disabled
+[2019.12.03-09.58.28:061][  0]SourceControl: Source control is disabled
+[2019.12.03-09.58.29:504][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.03-09.58.30:197][  0]LogOcInput: OculusInput pre-init called
+[2019.12.03-09.58.32:640][  0]LogEngine: Initializing Engine...
+[2019.12.03-09.58.32:725][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.12.03-09.58.32:729][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2019.12.03-09.58.33:319][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.03-09.58.33:674][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.03-09.58.33:784][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-09.58.34:864][  0]LogInit: FAudioDevice initialized.
+[2019.12.03-09.58.34:864][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.03-09.58.34:921][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/danie/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.03-09.58.34:935][  0]LogInit: Texture streaming: Enabled
+[2019.12.03-09.58.35:906][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.03-09.58.36:099][  0]LogInit: Transaction tracking system initialized
+[2019.12.03-09.58.36:443][  0]BlueprintLog: New page: Editor Load
+[2019.12.03-09.58.37:818][  0]LocalizationService: Localization service is disabled
+[2019.12.03-09.58.40:602][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Content/' took 0.06s
+[2019.12.03-09.58.40:602][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.03-09.58.40:602][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.03-09.58.43:912][  0]SourceControl: Source control is disabled
+[2019.12.03-09.58.43:934][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.03-09.58.43:956][  0]LightingResults: New page: Lighting Build
+[2019.12.03-09.58.44:035][  0]MapCheck: New page: Map Check
+[2019.12.03-09.58.44:035][  0]LightingResults: New page: Lighting Build
+[2019.12.03-09.58.44:209][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.12.03-09.58.44:807][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.03-09.58.45:030][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.03-09.58.45:079][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.12.03-09.58.45:079][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.03-09.58.45:079][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.184ms to complete.
+[2019.12.03-09.58.45:080][  0]LogFileHelpers: Loading map 'Template_Default' took 1.158
+[2019.12.03-09.58.46:261][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.58.46:270][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.58.46:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.58.46:285][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.58.46:381][  0]LogCollectionManager: Loaded 0 collections in 0.001236 seconds
+[2019.12.03-09.58.46:504][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Collections/' took 0.01s
+[2019.12.03-09.58.46:504][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Content/Developers/danie/Collections/' took 0.01s
+[2019.12.03-09.58.46:504][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Content/Collections/' took 0.01s
+[2019.12.03-09.58.46:504][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.12.03-09.58.46:517][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2736 classes and 662 folders.
+[2019.12.03-09.58.46:598][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.03-09.58.46:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:719][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:778][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:843][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:858][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:865][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:873][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:902][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.46:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.47:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.47:024][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-09.58.47:770][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.03-09.58.47:823][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.03-09.58.48:425][  0]LogSlate: Took 0.013922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.03-09.58.48:443][  0]LogSlate: Took 0.016143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.03-09.58.48:475][  0]LogSlate: Took 0.020490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.03-09.58.48:819][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.03-09.58.49:240][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.03-09.58.49:240][  0]LogLoad: (Engine Initialization) Total time: 75.35 seconds
+[2019.12.03-09.58.49:240][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.01 seconds
+[2019.12.03-09.58.49:449][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.03-09.58.49:532][  0]LogSlate: Took 0.016304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.03-09.58.49:741][  1]LogAssetRegistry: Asset discovery search completed in 41.4234 seconds
+[2019.12.03-09.58.49:751][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2019.12.03-09.58.49:751][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000124 seconds (updated 0 objects)
+[2019.12.03-10.02.31:251][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-10.02.31:376][945]LogSlate: Took 0.005460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.03-10.02.35:454][945]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.12.03-10.02.38:041][945]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.12.03-10.02.38:041][945]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.12.03-10.02.38:041][945]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.12.03-10.02.39:070][945]LogAIModule: Creating AISystem for world Realtime_Environment_Map
+[2019.12.03-10.02.39:170][945]LogAssetEditorManager: Opening Asset editor for World /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map
+[2019.12.03-10.02.39:224][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.12.03-10.02.39:242][945]Cmd: MAP LOAD FILE="C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Content/Environment_Set/Maps/Realtime_Environment_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.03-10.02.39:242][945]LightingResults: New page: Lighting Build
+[2019.12.03-10.02.39:242][945]LoadErrors: New page: Loading map: Realtime_Environment_Map.umap
+[2019.12.03-10.02.39:259][945]MapCheck: New page: Map Check
+[2019.12.03-10.02.39:259][945]LightingResults: New page: Lighting Build
+[2019.12.03-10.02.39:301][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.12.03-10.02.40:700][945]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.03-10.02.40:735][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.12.03-10.02.40:785][945]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.03-10.02.40:786][945]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.337ms to complete.
+[2019.12.03-10.02.40:786][945]LogFileHelpers: Loading map 'Realtime_Environment_Map' took 1.561
+[2019.12.03-10.02.40:926][946]LogRenderer: Reallocating scene render targets to support 1208x1024 Format 10 NumSamples 1 (Frame:0).
+[2019.12.03-10.02.48:642][173]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.03-10.02.59:025][704]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.03-10.02.59:032][704]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.03-10.03.19:504][473]LogSlate: Window 'Message' being destroyed
+[2019.12.03-10.03.25:261][809]MapCheck: New page: Map Check
+[2019.12.03-10.03.25:445][809]LightingResults: New page: Lighting Build - Dec 3, 2019, 12:03:25 PM
+[2019.12.03-10.03.25:445][809]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2019.12.03-10.03.25:611][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.12.03-10.03.25:635][809]LogEditorBuildUtils: Build time 0:00
+[2019.12.03-10.03.35:032][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-10.03.38:917][593]MapCheck: New page: Map Check
+[2019.12.03-10.03.38:933][593]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.03-10.03.38:938][593]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.03-10.03.39:760][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.12.03-10.03.39:916][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.39:994][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:006][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:023][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:034][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:080][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:094][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:105][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:134][593]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.03-10.03.40:134][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:219][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:241][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:276][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:300][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:322][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:340][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:363][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:378][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:404][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:521][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:549][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:565][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:574][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:585][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:596][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:604][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:617][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:631][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:643][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.40:657][593]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.03.45:952][593]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.03-10.03.45:952][593]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.03-10.03.45:952][593]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.03-10.03.45:952][593]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.03-10.03.45:952][593]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.03-10.03.45:952][593]TextureStreamingBuild: Display: Compiling optional shaders took 6.048 seconds.
+[2019.12.03-10.03.46:104][593]LogLevel: Display: Export Material TexCoord Scales took 0.152 seconds.
+[2019.12.03-10.03.46:400][593]TextureStreamingBuild: Display: Build Texture Streaming took 0.243 seconds.
+[2019.12.03-10.03.46:460][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.12.03-10.03.46:460][593]LightingResults: New page: Lighting Build - Dec 3, 2019, 12:03:46 PM
+[2019.12.03-10.03.46:460][593]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2019.12.03-10.03.46:587][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.12.03-10.03.46:587][593]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.03-10.03.46:587][593]MapCheck: New page: Realtime_Environment_Map - Dec 3, 2019, 12:03:46 PM
+[2019.12.03-10.03.46:634][593]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.46:708][593]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.47:486][593]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.03.47:486][593]MapCheck: Map check complete: 1 Error(s), 18 Warning(s), took 898.957ms to complete.
+[2019.12.03-10.03.47:510][593]LogEditorBuildUtils: Build time 0:08
+[2019.12.03-10.03.54:341][987]LogSlate: Window 'Message Log' being destroyed
+[2019.12.03-10.03.54:347][987]LogSlate: Window 'Message Log' being destroyed
+[2019.12.03-10.04.02:990][483]MapCheck: New page: Map Check
+[2019.12.03-10.04.03:006][483]LightingResults: New page: Lighting Build - Dec 3, 2019, 12:04:03 PM
+[2019.12.03-10.04.03:006][483]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2019.12.03-10.04.03:137][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.12.03-10.04.03:162][483]LogEditorBuildUtils: Build time 0:00
+[2019.12.03-10.04.18:007][365]MapCheck: New page: Map Check
+[2019.12.03-10.04.18:018][365]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.03-10.04.18:018][365]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.03-10.04.18:482][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.12.03-10.04.18:686][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.18:771][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.18:920][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.18:956][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.18:967][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.18:976][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.18:989][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.19:001][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.19:155][365]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.03-10.04.19:155][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.19:215][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.19:243][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.19:261][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.19:278][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.19:296][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.19:312][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.19:336][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.19:350][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.19:366][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.19:380][365]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.22:017][365]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.03-10.04.22:018][365]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.03-10.04.22:018][365]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.03-10.04.22:018][365]TextureStreamingBuild: Display: Compiling optional shaders took 3.375 seconds.
+[2019.12.03-10.04.22:130][365]LogLevel: Display: Export Material TexCoord Scales took 0.113 seconds.
+[2019.12.03-10.04.22:368][365]TextureStreamingBuild: Display: Build Texture Streaming took 0.238 seconds.
+[2019.12.03-10.04.22:431][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.12.03-10.04.22:432][365]LightingResults: New page: Lighting Build - Dec 3, 2019, 12:04:22 PM
+[2019.12.03-10.04.22:537][365]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.12.03-10.04.22:537][365]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.12.03-10.04.22:556][365]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.12.03-10.04.22:556][365]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.12.03-10.04.22:557][365]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.12.03-10.04.22:557][365]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.12.03-10.04.22:558][365]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.12.03-10.04.22:559][365]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.12.03-10.04.22:559][365]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.12.03-10.04.22:781][365]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.03-10.04.23:127][365]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.03-10.04.23:151][365]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.03-10.04.24:168][365]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.03-10.04.24:168][365]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18148
+[2019.12.03-10.04.31:762][365]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.03-10.04.31:762][365]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.03-10.04.31:762][365]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.03-10.04.31:762][365]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.03-10.04.31:762][365]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.03-10.04.31:938][365]LightingResults: Error: Level has bPrecomputeVisibility enabled but no Precomputed Visibility Volumes, precomputed visibility will not be effective.
+[2019.12.03-10.04.33:045][365]LogEditorBuildUtils: Build time 0:15
+[2019.12.03-10.04.33:143][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.03-10.04.34:689][367]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2019.12.03-10.04.35:685][367]Job has failed! Job is closed while Tasks are still PENDING
+[2019.12.03-10.04.35:687][367]DumpUnbuiltLightIteractions
+[2019.12.03-10.04.35:687][367]Lights with unbuilt interactions: 1
+[2019.12.03-10.04.35:687][367]    Light DirectionalLight2_3
+[2019.12.03-10.04.35:687][367]
+[2019.12.03-10.04.35:687][367]Primitives with unbuilt interactions: 322
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint19.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint20_5969.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint19_5674.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint7_1665.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint6_1422.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint18_5389.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint16_4001.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint15_3567.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint14_3341.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint13.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint12_2734.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint11_2474.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint17_5105.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint5_1106.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint18.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint17_2554.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint16_4771.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint15.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint14.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint13_4111.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint12_3640.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint11_3451.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint10_2288.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint9_2001.StaticMesh
+[2019.12.03-10.04.35:687][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint8_1579.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint10_3089.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint16_2263.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint15_1852.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint9_2489.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint7_1265.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint6_841.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint14_1597.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint13_1273.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint8_1770.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint9_1006.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint3_1419.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint12_1077.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint11.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint10_338.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint5_436.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint2_809.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint4_743.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_7822.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_7498.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_7012.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_6789.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_6497.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_43.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_7104.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_02_Blueprint_1560.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_3513.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_3423.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_02_Blueprint_1448.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_40.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_2279.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint3_599.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint2_445.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_311.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint8_585.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_3163.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_928.StaticMesh
+[2019.12.03-10.04.35:688][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_818.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_2971.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_2759.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_2521.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_2264.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_2132.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_638.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_340.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_144.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_1706.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_1348.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_1038.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_905.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_689.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_01_Blueprint_1441.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_04_Blueprint_119.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_01_Blueprint_1098.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_7385.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_02_Blueprint_1520.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_6019.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_2089.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_1244.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_1001.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_1928.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_1856.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_1439.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_1632.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_1163.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_354.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_7116.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_5627.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_5388.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_5125.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_6720.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_5724.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_6031.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint_12.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint_936.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_1236.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_5707.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_31.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_1000.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint_10.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint_616.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_795.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_5547.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_5232.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_22.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_4974.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_4479.StaticMesh
+[2019.12.03-10.04.35:689][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_4651.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_02_Blueprint_1040.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_02_Blueprint_880.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_198.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_01_Blueprint_4.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_01_Blueprint_116.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_03_Blueprint_524.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_02_Blueprint_353.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_30.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_4250.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_699.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_3779.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_3321.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_802.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_4543.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_4316.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint_156.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_463.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_4168.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_2790.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_02_Blueprint_566.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_02_Blueprint_409.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_3867.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_2424.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_3099.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_60.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_2833.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint_1818.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_3531.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_2406.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_3338.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint_1117.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_3035.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_321.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_02_Blueprint_106.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_83.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_2793.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_11.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_2193.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_1989.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_91.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_22.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_1646.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_988.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_1103.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_17.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_826.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint_537.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_845.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_02_Blueprint_66.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_565.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_78.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_14.StaticMesh
+[2019.12.03-10.04.35:690][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_336.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_142.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_99.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint_90.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_1448.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_1937.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_1651.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_1232.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_1885.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_988.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_10.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_9.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_853.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_1408.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_702.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint4.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint3_907.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint7_1835.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint_637.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_14.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_13.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_570.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_341.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_965.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_2642.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_11.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_1970.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_477.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_618.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_1527.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_198.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_785.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint_449.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint6_1490.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_849.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_432.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_590.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_470.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_02_Blueprint_167.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_Blueprint_246.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_04_Blueprint_890.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_03_Blueprint_482.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_1275.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_145.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_90.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_54.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint5_1131.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint9_2779.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_856.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_32.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_04_Blueprint_290.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_4.StaticMesh
+[2019.12.03-10.04.35:691][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_01_Blueprint_178.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint_182.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_02_Blueprint_129.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_04_Blueprint_70.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_02_Blueprint2_471.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint4_873.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint8_2634.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint3_485.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint2_471.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_01_Blueprint_131.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint7_2435.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint2_221.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint7_1625.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint6_851.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint6_1431.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint5_1062.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_02_Blueprint_82.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint4_614.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint5_487.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint3_338.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint2_105.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_Blueprint4_246.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_Blueprint_53.StaticMesh
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_25.StaticMeshComponent0
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_22.StaticMeshComponent0
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_road_border_03_15.StaticMeshComponent0
+[2019.12.03-10.04.35:692][367]    Primitive FoliageInstancedStaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_6
+[2019.12.03-10.04.35:692][367]    Primitive FoliageInstancedStaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_5
+[2019.12.03-10.04.35:692][367]    Primitive FoliageInstancedStaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_33
+[2019.12.03-10.04.35:692][367]    Primitive FoliageInstancedStaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_32
+[2019.12.03-10.04.35:692][367]    Primitive FoliageInstancedStaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Plains_Angel_Statue_01_2.StaticMeshComponent0
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_89.StaticMeshComponent0
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_86.StaticMeshComponent0
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_83.StaticMeshComponent0
+[2019.12.03-10.04.35:692][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_80.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_77.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_74.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_70.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_64.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_61.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_58.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_55.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_52.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_49.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_43.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_56.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_53.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_47.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_43.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_03_40.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_37.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_34.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_rock_31.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_28.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_25.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_3.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_21.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_rock_18.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_15.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_11.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_8.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_rock_41.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_rock_38.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_rock_01_35.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_32.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_29.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_23.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_03_20.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Middle_Rock_02_5.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_Big_Rock_01_2.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_47.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_44.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_38.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_35.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_32.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_29.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_26.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_02_23.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_20.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive StaticMeshComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.SM_trunk_01_14.StaticMeshComponent0
+[2019.12.03-10.04.35:693][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_63
+[2019.12.03-10.04.35:693][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_62
+[2019.12.03-10.04.35:693][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_58
+[2019.12.03-10.04.35:693][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_57
+[2019.12.03-10.04.35:693][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_66
+[2019.12.03-10.04.35:693][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_65
+[2019.12.03-10.04.35:693][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_64
+[2019.12.03-10.04.35:693][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_61
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_60
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_59
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_78
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_77
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_73
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_72
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_68
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_67
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_81
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_80
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_79
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_76
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_75
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_74
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_71
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_70
+[2019.12.03-10.04.35:694][367]    Primitive LandscapeComponent /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Landscape_10.LandscapeComponent_69
+[2019.12.03-10.04.36:310][368]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.03-10.04.36:310][368]MapCheck: New page: Realtime_Environment_Map - Dec 3, 2019, 12:04:36 PM
+[2019.12.03-10.04.36:311][368]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.12.03-10.04.36:311][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:311][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:311][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:311][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:311][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:311][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:312][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:312][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:312][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:312][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:312][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:312][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:312][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:312][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:312][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:312][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:312][368]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:315][368]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.36:315][368]MapCheck: Map check complete: 1 Error(s), 18 Warning(s), took 5.067ms to complete.
+[2019.12.03-10.04.38:646][506]LogSlate: Window 'Message Log' being destroyed
+[2019.12.03-10.04.38:655][506]LogSlate: Window 'Message Log' being destroyed
+[2019.12.03-10.04.41:492][596]LogSlate: Window 'Message' being destroyed
+[2019.12.03-10.04.47:095][931]MapCheck: New page: Map Check
+[2019.12.03-10.04.47:106][931]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.03-10.04.47:106][931]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.03-10.04.47:620][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.12.03-10.04.47:846][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.47:964][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:190][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:255][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:276][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:300][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:323][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:341][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:601][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:654][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:683][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:702][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:720][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:741][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:756][931]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.03-10.04.48:756][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:782][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:796][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:812][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.48:830][931]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-10.04.51:682][931]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.03-10.04.51:682][931]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.03-10.04.51:683][931]TextureStreamingBuild: Display: Compiling optional shaders took 3.883 seconds.
+[2019.12.03-10.04.51:816][931]LogLevel: Display: Export Material TexCoord Scales took 0.133 seconds.
+[2019.12.03-10.04.52:089][931]TextureStreamingBuild: Display: Build Texture Streaming took 0.273 seconds.
+[2019.12.03-10.04.52:155][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.12.03-10.04.52:155][931]LightingResults: New page: Lighting Build - Dec 3, 2019, 12:04:52 PM
+[2019.12.03-10.04.52:156][931]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2019.12.03-10.04.52:299][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.12.03-10.04.52:299][931]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.03-10.04.52:299][931]MapCheck: New page: Realtime_Environment_Map - Dec 3, 2019, 12:04:52 PM
+[2019.12.03-10.04.52:301][931]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.12.03-10.04.52:302][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:302][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:302][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:302][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:302][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:302][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:302][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:302][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:302][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:302][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:303][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:303][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:303][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:303][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:303][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:303][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:303][931]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:306][931]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.12.03-10.04.52:306][931]MapCheck: Map check complete: 1 Error(s), 18 Warning(s), took 6.674ms to complete.
+[2019.12.03-10.04.52:331][931]LogEditorBuildUtils: Build time 0:05
+[2019.12.03-10.04.54:619][ 56]LogSlate: Window 'Message Log' being destroyed
+[2019.12.03-10.04.54:625][ 56]LogSlate: Window 'Message Log' being destroyed
+[2019.12.03-10.05.09:307][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-10.05.24:436][472]LogSlate: Window 'Message' being destroyed
+[2019.12.03-10.05.30:343][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-10.05.33:524][ 14]MapCheck: New page: Map Check
+[2019.12.03-10.05.33:535][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-10.05.33:541][ 14]LightingResults: New page: Lighting Build - Dec 3, 2019, 12:05:33 PM
+[2019.12.03-10.05.33:541][ 14]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2019.12.03-10.05.33:708][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.12.03-10.05.33:734][ 14]LogEditorBuildUtils: Build time 0:00
+[2019.12.03-10.05.47:445][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-10.06.11:656][192]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.12.03-10.06.12:419][234]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.12.03-10.06.12:864][256]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.12.03-10.06.55:715][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-10.06.55:815][788]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-10.06.55:933][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map' with GeneratedClass '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map_C' with ClassGeneratedBy '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map'
+[2019.12.03-10.06.55:949][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-10.06.55:950][788]PIE: New page: PIE session: Realtime_Environment_Map (Dec 3, 2019, 12:06:55 PM)
+[2019.12.03-10.06.56:045][788]LogPlayLevel: Creating play world package: /Game/Environment_Set/Maps/UEDPIE_0_Realtime_Environment_Map
+[2019.12.03-10.06.56:257][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211433s)
+[2019.12.03-10.06.56:268][788]LogAIModule: Creating AISystem for world Realtime_Environment_Map
+[2019.12.03-10.06.56:291][788]LogPlayLevel: PIE: World Init took: (0.034502s)
+[2019.12.03-10.06.56:291][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map to /Game/Environment_Set/Maps/UEDPIE_0_Realtime_Environment_Map.Realtime_Environment_Map (0.246633s)
+[2019.12.03-10.06.56:326][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.12.03-10.06.56:362][788]LogInit: XAudio2 using 'Speaker/Headphone (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-10.06.56:429][788]LogInit: FAudioDevice initialized.
+[2019.12.03-10.06.56:498][788]LogLoad: Game class is 'GameModeBase'
+[2019.12.03-10.06.56:584][788]LogWorld: Bringing World /Game/Environment_Set/Maps/UEDPIE_0_Realtime_Environment_Map.Realtime_Environment_Map up for play (max tick rate 60) at 2019.12.03-11.06.56
+[2019.12.03-10.06.56:702][788]LogWorld: Bringing up level for play took: 0.137174
+[2019.12.03-10.06.56:948][788]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.12.03-10.06.57:086][788]PIE: Play in editor start time for /Game/Environment_Set/Maps/UEDPIE_0_Realtime_Environment_Map 0.463
+[2019.12.03-10.06.57:087][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map' with GeneratedClass '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map_C' with ClassGeneratedBy '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map'
+[2019.12.03-10.07.07:236][369]Cmd: LevelEditor.ToggleImmersive
+[2019.12.03-10.07.07:618][370]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:583).
+[2019.12.03-10.07.07:627][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-10.07.29:485][565]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map' with GeneratedClass '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map_C' with ClassGeneratedBy '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map'
+[2019.12.03-10.07.29:491][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-10.07.29:565][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-10.07.29:565][565]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map' with GeneratedClass '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map_C' with ClassGeneratedBy '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map'
+[2019.12.03-10.07.29:631][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-10.07.29:716][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.12.03-10.07.29:732][566]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.03-10.07.34:601][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-10.07.37:900][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-10.09.04:567][627]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.12.03-10.09.04:823][632]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.12.03-10.09.04:931][633]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.12.03-10.09.05:050][634]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.12.03-10.09.05:161][635]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.12.03-10.09.05:344][639]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2019.12.03-10.09.05:655][640]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2019.12.03-10.09.06:167][646]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2019.12.03-10.09.06:694][655]LogMaterial: Display: Missing cached shader map for material Material_7, compiling. 
+[2019.12.03-10.09.13:007][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-10.09.20:527][188]LogAssetEditorManager: Opening Asset editor for Material /Engine/EditorMaterials/PreviewShadowIndicatorMaterial.PreviewShadowIndicatorMaterial
+[2019.12.03-10.09.20:888][188]LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2019.12.03-10.09.21:923][188]LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2019.12.03-10.09.21:976][188]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.03-10.09.22:080][188]LogSlate: Took 0.021425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.03-10.09.22:725][196]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2019.12.03-10.09.22:725][196]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.12.03-10.09.22:725][196]MaterialEditorStats: Texture samplers: 1/16
+[2019.12.03-10.09.22:725][196]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.12.03-10.09.22:725][196]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.03-10.09.49:744][500]LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2019.12.03-10.09.51:256][561]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.12.03-10.09.51:256][561]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.03-10.09.51:256][561]MaterialEditorStats: Texture samplers: 0/16
+[2019.12.03-10.09.53:979][686]LogMaterialEditor: Saving and Compiling material PreviewShadowIndicatorMaterial
+[2019.12.03-10.09.56:955][686]LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2019.12.03-10.09.57:021][686]LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2019.12.03-10.09.57:139][686]LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2019.12.03-10.09.57:221][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.12.03-10.09.57:222][686]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.12.03-10.09.57:272][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.12.03-10.10.01:549][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorMaterials/PreviewShadowIndicatorMaterial" FILE="../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" SILENT=true
+[2019.12.03-10.10.01:659][686]LogSavePackage: Moving 'C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/PreviewShadowIndicatorMaterialBAEB09E648DD68C41D09A3A57760FB38.tmp' to '../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset'
+[2019.12.03-10.10.01:706][686]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.12.03-10.10.01:706][686]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.12.03-10.10.01:706][686]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.03-10.10.04:704][790]LogSlate: Window 'PreviewShadowIndicatorMaterial' being destroyed
+[2019.12.03-10.10.05:621][817]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-10.10.05:644][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map' with GeneratedClass '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map_C' with ClassGeneratedBy '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map'
+[2019.12.03-10.10.05:644][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-10.10.05:644][817]PIE: New page: PIE session: Realtime_Environment_Map (Dec 3, 2019, 12:10:05 PM)
+[2019.12.03-10.10.05:644][817]LogPlayLevel: Creating play world package: /Game/Environment_Set/Maps/UEDPIE_0_Realtime_Environment_Map
+[2019.12.03-10.10.05:783][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139243s)
+[2019.12.03-10.10.05:784][817]LogAIModule: Creating AISystem for world Realtime_Environment_Map
+[2019.12.03-10.10.05:784][817]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2019.12.03-10.10.05:785][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map to /Game/Environment_Set/Maps/UEDPIE_0_Realtime_Environment_Map.Realtime_Environment_Map (0.140500s)
+[2019.12.03-10.10.06:202][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.12.03-10.10.06:230][817]LogInit: XAudio2 using 'Speaker/Headphone (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-10.10.06:295][817]LogInit: FAudioDevice initialized.
+[2019.12.03-10.10.06:327][817]LogLoad: Game class is 'GameModeBase'
+[2019.12.03-10.10.06:350][817]LogWorld: Bringing World /Game/Environment_Set/Maps/UEDPIE_0_Realtime_Environment_Map.Realtime_Environment_Map up for play (max tick rate 60) at 2019.12.03-11.10.06
+[2019.12.03-10.10.06:358][817]LogWorld: Bringing up level for play took: 0.029941
+[2019.12.03-10.10.06:434][817]PIE: Play in editor start time for /Game/Environment_Set/Maps/UEDPIE_0_Realtime_Environment_Map -0.19
+[2019.12.03-10.10.06:434][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map' with GeneratedClass '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map_C' with ClassGeneratedBy '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map'
+[2019.12.03-10.10.08:780][949]Cmd: LevelEditor.ToggleImmersive
+[2019.12.03-10.10.08:992][953]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-10.11.36:880][283]LogParticles: Warning: Failed to allocate tiles for Rain! 2884 new particles truncated to 2196.
+[2019.12.03-10.11.36:909][284]LogParticles: Warning: Failed to allocate tiles for Rain! 2995 new particles truncated to 0.
+[2019.12.03-10.11.36:910][284]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.36:941][285]LogParticles: Warning: Failed to allocate tiles for Rain! 3099 new particles truncated to 0.
+[2019.12.03-10.11.36:974][286]LogParticles: Warning: Failed to allocate tiles for Rain! 3379 new particles truncated to 0.
+[2019.12.03-10.11.37:005][287]LogParticles: Warning: Failed to allocate tiles for Rain! 3062 new particles truncated to 0.
+[2019.12.03-10.11.37:028][288]LogParticles: Warning: Failed to allocate tiles for Rain! 2294 new particles truncated to 0.
+[2019.12.03-10.11.37:052][289]LogParticles: Warning: Failed to allocate tiles for Rain! 2412 new particles truncated to 0.
+[2019.12.03-10.11.37:076][290]LogParticles: Warning: Failed to allocate tiles for Rain! 2439 new particles truncated to 0.
+[2019.12.03-10.11.37:101][291]LogParticles: Warning: Failed to allocate tiles for Rain! 2440 new particles truncated to 0.
+[2019.12.03-10.11.37:101][291]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.37:124][292]LogParticles: Warning: Failed to allocate tiles for Rain! 2395 new particles truncated to 0.
+[2019.12.03-10.11.37:149][293]LogParticles: Warning: Failed to allocate tiles for Rain! 2504 new particles truncated to 0.
+[2019.12.03-10.11.37:175][294]LogParticles: Warning: Failed to allocate tiles for Rain! 2572 new particles truncated to 0.
+[2019.12.03-10.11.37:200][295]LogParticles: Warning: Failed to allocate tiles for Rain! 2508 new particles truncated to 0.
+[2019.12.03-10.11.37:224][296]LogParticles: Warning: Failed to allocate tiles for Rain! 2396 new particles truncated to 0.
+[2019.12.03-10.11.37:249][297]LogParticles: Warning: Failed to allocate tiles for Rain! 2505 new particles truncated to 0.
+[2019.12.03-10.11.37:274][298]LogParticles: Warning: Failed to allocate tiles for Rain! 2478 new particles truncated to 0.
+[2019.12.03-10.11.37:299][299]LogParticles: Warning: Failed to allocate tiles for Rain! 2485 new particles truncated to 0.
+[2019.12.03-10.11.37:299][299]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.37:324][300]LogParticles: Warning: Failed to allocate tiles for Rain! 2540 new particles truncated to 0.
+[2019.12.03-10.11.37:349][301]LogParticles: Warning: Failed to allocate tiles for Rain! 2490 new particles truncated to 0.
+[2019.12.03-10.11.37:373][302]LogParticles: Warning: Failed to allocate tiles for Rain! 2431 new particles truncated to 0.
+[2019.12.03-10.11.37:398][303]LogParticles: Warning: Failed to allocate tiles for Rain! 2455 new particles truncated to 0.
+[2019.12.03-10.11.37:423][304]LogParticles: Warning: Failed to allocate tiles for Rain! 2562 new particles truncated to 0.
+[2019.12.03-10.11.37:449][305]LogParticles: Warning: Failed to allocate tiles for Rain! 2491 new particles truncated to 0.
+[2019.12.03-10.11.37:474][306]LogParticles: Warning: Failed to allocate tiles for Rain! 2546 new particles truncated to 0.
+[2019.12.03-10.11.37:499][307]LogParticles: Warning: Failed to allocate tiles for Rain! 2462 new particles truncated to 0.
+[2019.12.03-10.11.37:499][307]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.37:523][308]LogParticles: Warning: Failed to allocate tiles for Rain! 2446 new particles truncated to 0.
+[2019.12.03-10.11.37:549][309]LogParticles: Warning: Failed to allocate tiles for Rain! 2472 new particles truncated to 0.
+[2019.12.03-10.11.37:574][310]LogParticles: Warning: Failed to allocate tiles for Rain! 2541 new particles truncated to 0.
+[2019.12.03-10.11.37:599][311]LogParticles: Warning: Failed to allocate tiles for Rain! 2487 new particles truncated to 0.
+[2019.12.03-10.11.37:623][312]LogParticles: Warning: Failed to allocate tiles for Rain! 2478 new particles truncated to 0.
+[2019.12.03-10.11.37:647][313]LogParticles: Warning: Failed to allocate tiles for Rain! 2481 new particles truncated to 0.
+[2019.12.03-10.11.37:672][314]LogParticles: Warning: Failed to allocate tiles for Rain! 2496 new particles truncated to 0.
+[2019.12.03-10.11.37:697][315]LogParticles: Warning: Failed to allocate tiles for Rain! 2461 new particles truncated to 0.
+[2019.12.03-10.11.37:697][315]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.37:722][316]LogParticles: Warning: Failed to allocate tiles for Rain! 2498 new particles truncated to 0.
+[2019.12.03-10.11.37:747][317]LogParticles: Warning: Failed to allocate tiles for Rain! 2468 new particles truncated to 0.
+[2019.12.03-10.11.37:773][318]LogParticles: Warning: Failed to allocate tiles for Rain! 2598 new particles truncated to 0.
+[2019.12.03-10.11.37:798][319]LogParticles: Warning: Failed to allocate tiles for Rain! 2544 new particles truncated to 0.
+[2019.12.03-10.11.37:823][320]LogParticles: Warning: Failed to allocate tiles for Rain! 2506 new particles truncated to 0.
+[2019.12.03-10.11.37:849][321]LogParticles: Warning: Failed to allocate tiles for Rain! 2508 new particles truncated to 16.
+[2019.12.03-10.11.37:875][322]LogParticles: Warning: Failed to allocate tiles for Rain! 2447 new particles truncated to 0.
+[2019.12.03-10.11.37:906][323]LogParticles: Warning: Failed to allocate tiles for Rain! 3175 new particles truncated to 0.
+[2019.12.03-10.11.37:906][323]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.37:925][324]LogParticles: Warning: Failed to allocate tiles for Rain! 1987 new particles truncated to 0.
+[2019.12.03-10.11.37:951][325]LogParticles: Warning: Failed to allocate tiles for Rain! 2582 new particles truncated to 0.
+[2019.12.03-10.11.37:975][326]LogParticles: Warning: Failed to allocate tiles for Rain! 2367 new particles truncated to 0.
+[2019.12.03-10.11.38:000][327]LogParticles: Warning: Failed to allocate tiles for Rain! 2450 new particles truncated to 0.
+[2019.12.03-10.11.38:024][328]LogParticles: Warning: Failed to allocate tiles for Rain! 2499 new particles truncated to 0.
+[2019.12.03-10.11.38:049][329]LogParticles: Warning: Failed to allocate tiles for Rain! 2462 new particles truncated to 0.
+[2019.12.03-10.11.38:073][330]LogParticles: Warning: Failed to allocate tiles for Rain! 2527 new particles truncated to 0.
+[2019.12.03-10.11.38:099][331]LogParticles: Warning: Failed to allocate tiles for Rain! 2526 new particles truncated to 0.
+[2019.12.03-10.11.38:099][331]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.38:125][332]LogParticles: Warning: Failed to allocate tiles for Rain! 2543 new particles truncated to 0.
+[2019.12.03-10.11.38:148][333]LogParticles: Warning: Failed to allocate tiles for Rain! 2363 new particles truncated to 0.
+[2019.12.03-10.11.38:174][334]LogParticles: Warning: Failed to allocate tiles for Rain! 2481 new particles truncated to 0.
+[2019.12.03-10.11.38:199][335]LogParticles: Warning: Failed to allocate tiles for Rain! 2534 new particles truncated to 0.
+[2019.12.03-10.11.38:223][336]LogParticles: Warning: Failed to allocate tiles for Rain! 2465 new particles truncated to 0.
+[2019.12.03-10.11.38:248][337]LogParticles: Warning: Failed to allocate tiles for Rain! 2466 new particles truncated to 0.
+[2019.12.03-10.11.38:273][338]LogParticles: Warning: Failed to allocate tiles for Rain! 2553 new particles truncated to 0.
+[2019.12.03-10.11.38:299][339]LogParticles: Warning: Failed to allocate tiles for Rain! 2555 new particles truncated to 0.
+[2019.12.03-10.11.38:299][339]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.38:324][340]LogParticles: Warning: Failed to allocate tiles for Rain! 2463 new particles truncated to 0.
+[2019.12.03-10.11.38:348][341]LogParticles: Warning: Failed to allocate tiles for Rain! 2447 new particles truncated to 0.
+[2019.12.03-10.11.38:372][342]LogParticles: Warning: Failed to allocate tiles for Rain! 2440 new particles truncated to 0.
+[2019.12.03-10.11.38:397][343]LogParticles: Warning: Failed to allocate tiles for Rain! 2485 new particles truncated to 0.
+[2019.12.03-10.11.38:421][344]LogParticles: Warning: Failed to allocate tiles for Rain! 2439 new particles truncated to 0.
+[2019.12.03-10.11.38:445][345]LogParticles: Warning: Failed to allocate tiles for Rain! 2381 new particles truncated to 0.
+[2019.12.03-10.11.38:469][346]LogParticles: Warning: Failed to allocate tiles for Rain! 2438 new particles truncated to 0.
+[2019.12.03-10.11.38:494][347]LogParticles: Warning: Failed to allocate tiles for Rain! 2513 new particles truncated to 0.
+[2019.12.03-10.11.38:494][347]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.38:520][348]LogParticles: Warning: Failed to allocate tiles for Rain! 2495 new particles truncated to 0.
+[2019.12.03-10.11.38:545][349]LogParticles: Warning: Failed to allocate tiles for Rain! 2521 new particles truncated to 0.
+[2019.12.03-10.11.38:568][350]LogParticles: Warning: Failed to allocate tiles for Rain! 2370 new particles truncated to 0.
+[2019.12.03-10.11.38:592][351]LogParticles: Warning: Failed to allocate tiles for Rain! 2393 new particles truncated to 0.
+[2019.12.03-10.11.38:617][352]LogParticles: Warning: Failed to allocate tiles for Rain! 2452 new particles truncated to 0.
+[2019.12.03-10.11.38:641][353]LogParticles: Warning: Failed to allocate tiles for Rain! 2483 new particles truncated to 0.
+[2019.12.03-10.11.38:667][354]LogParticles: Warning: Failed to allocate tiles for Rain! 2541 new particles truncated to 0.
+[2019.12.03-10.11.38:692][355]LogParticles: Warning: Failed to allocate tiles for Rain! 2509 new particles truncated to 0.
+[2019.12.03-10.11.38:692][355]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.38:717][356]LogParticles: Warning: Failed to allocate tiles for Rain! 2459 new particles truncated to 0.
+[2019.12.03-10.11.38:741][357]LogParticles: Warning: Failed to allocate tiles for Rain! 2470 new particles truncated to 0.
+[2019.12.03-10.11.38:766][358]LogParticles: Warning: Failed to allocate tiles for Rain! 2466 new particles truncated to 0.
+[2019.12.03-10.11.38:790][359]LogParticles: Warning: Failed to allocate tiles for Rain! 2455 new particles truncated to 0.
+[2019.12.03-10.11.38:816][360]LogParticles: Warning: Failed to allocate tiles for Rain! 2568 new particles truncated to 0.
+[2019.12.03-10.11.38:842][361]LogParticles: Warning: Failed to allocate tiles for Rain! 2604 new particles truncated to 0.
+[2019.12.03-10.11.38:867][362]LogParticles: Warning: Failed to allocate tiles for Rain! 2437 new particles truncated to 0.
+[2019.12.03-10.11.38:890][363]LogParticles: Warning: Failed to allocate tiles for Rain! 2403 new particles truncated to 0.
+[2019.12.03-10.11.38:890][363]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.38:916][364]LogParticles: Warning: Failed to allocate tiles for Rain! 2517 new particles truncated to 0.
+[2019.12.03-10.11.38:942][365]LogParticles: Warning: Failed to allocate tiles for Rain! 2590 new particles truncated to 0.
+[2019.12.03-10.11.38:968][366]LogParticles: Warning: Failed to allocate tiles for Rain! 2561 new particles truncated to 0.
+[2019.12.03-10.11.38:994][367]LogParticles: Warning: Failed to allocate tiles for Rain! 2561 new particles truncated to 0.
+[2019.12.03-10.11.39:019][368]LogParticles: Warning: Failed to allocate tiles for Rain! 2583 new particles truncated to 0.
+[2019.12.03-10.11.39:043][369]LogParticles: Warning: Failed to allocate tiles for Rain! 2398 new particles truncated to 0.
+[2019.12.03-10.11.39:069][370]LogParticles: Warning: Failed to allocate tiles for Rain! 2637 new particles truncated to 0.
+[2019.12.03-10.11.39:096][371]LogParticles: Warning: Failed to allocate tiles for Rain! 2599 new particles truncated to 0.
+[2019.12.03-10.11.39:096][371]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.39:121][372]LogParticles: Warning: Failed to allocate tiles for Rain! 2528 new particles truncated to 0.
+[2019.12.03-10.11.39:147][373]LogParticles: Warning: Failed to allocate tiles for Rain! 2579 new particles truncated to 0.
+[2019.12.03-10.11.39:171][374]LogParticles: Warning: Failed to allocate tiles for Rain! 2382 new particles truncated to 0.
+[2019.12.03-10.11.39:195][375]LogParticles: Warning: Failed to allocate tiles for Rain! 2518 new particles truncated to 16.
+[2019.12.03-10.11.39:222][376]LogParticles: Warning: Failed to allocate tiles for Rain! 2566 new particles truncated to 16.
+[2019.12.03-10.11.39:246][377]LogParticles: Warning: Failed to allocate tiles for Rain! 2515 new particles truncated to 16.
+[2019.12.03-10.11.39:272][378]LogParticles: Warning: Failed to allocate tiles for Rain! 2528 new particles truncated to 16.
+[2019.12.03-10.11.39:297][379]LogParticles: Warning: Failed to allocate tiles for Rain! 2532 new particles truncated to 16.
+[2019.12.03-10.11.39:297][379]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.39:321][380]LogParticles: Warning: Failed to allocate tiles for Rain! 2522 new particles truncated to 32.
+[2019.12.03-10.11.39:348][381]LogParticles: Warning: Failed to allocate tiles for Rain! 2538 new particles truncated to 96.
+[2019.12.03-10.11.39:372][382]LogParticles: Warning: Failed to allocate tiles for Rain! 2452 new particles truncated to 160.
+[2019.12.03-10.11.39:397][383]LogParticles: Warning: Failed to allocate tiles for Rain! 2494 new particles truncated to 192.
+[2019.12.03-10.11.39:423][384]LogParticles: Warning: Failed to allocate tiles for Rain! 2566 new particles truncated to 240.
+[2019.12.03-10.11.39:448][385]LogParticles: Warning: Failed to allocate tiles for Rain! 2511 new particles truncated to 256.
+[2019.12.03-10.11.39:473][386]LogParticles: Warning: Failed to allocate tiles for Rain! 2557 new particles truncated to 304.
+[2019.12.03-10.11.39:499][387]LogParticles: Warning: Failed to allocate tiles for Rain! 2572 new particles truncated to 336.
+[2019.12.03-10.11.39:499][387]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.39:523][388]LogParticles: Warning: Failed to allocate tiles for Rain! 2414 new particles truncated to 384.
+[2019.12.03-10.11.39:546][389]LogParticles: Warning: Failed to allocate tiles for Rain! 2386 new particles truncated to 480.
+[2019.12.03-10.11.39:572][390]LogParticles: Warning: Failed to allocate tiles for Rain! 2445 new particles truncated to 576.
+[2019.12.03-10.11.39:596][391]LogParticles: Warning: Failed to allocate tiles for Rain! 2520 new particles truncated to 688.
+[2019.12.03-10.11.39:622][392]LogParticles: Warning: Failed to allocate tiles for Rain! 2502 new particles truncated to 880.
+[2019.12.03-10.11.39:647][393]LogParticles: Warning: Failed to allocate tiles for Rain! 2565 new particles truncated to 1104.
+[2019.12.03-10.11.39:672][394]LogParticles: Warning: Failed to allocate tiles for Rain! 2525 new particles truncated to 1296.
+[2019.12.03-10.11.39:697][395]LogParticles: Warning: Failed to allocate tiles for Rain! 2519 new particles truncated to 1552.
+[2019.12.03-10.11.39:698][395]LogParticles: Warning: Failed to allocate tiles for Rain! 1 new particles truncated to 0.
+[2019.12.03-10.11.39:723][396]LogParticles: Warning: Failed to allocate tiles for Rain! 2504 new particles truncated to 1808.
+[2019.12.03-10.11.39:749][397]LogParticles: Warning: Failed to allocate tiles for Rain! 2607 new particles truncated to 2128.
+[2019.12.03-10.11.39:776][398]LogParticles: Warning: Failed to allocate tiles for Rain! 2622 new particles truncated to 2560.
+[2019.12.03-10.11.49:121][784]Cmd: LevelEditor.ToggleImmersive
+[2019.12.03-10.11.49:378][788]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-10.11.51:906][939]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-10.11.52:891][998]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map' with GeneratedClass '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map_C' with ClassGeneratedBy '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map'
+[2019.12.03-10.11.52:891][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-10.11.52:948][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-10.11.52:948][998]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map' with GeneratedClass '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map_C' with ClassGeneratedBy '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map'
+[2019.12.03-10.11.53:008][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-10.11.53:014][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.12.03-10.11.53:040][999]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.03-10.12.15:148][173]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-10.12.15:176][173]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map' with GeneratedClass '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map_C' with ClassGeneratedBy '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map'
+[2019.12.03-10.12.15:177][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-10.12.15:177][173]PIE: New page: PIE session: Realtime_Environment_Map (Dec 3, 2019, 12:12:15 PM)
+[2019.12.03-10.12.15:177][173]LogPlayLevel: Creating play world package: /Game/Environment_Set/Maps/UEDPIE_0_Realtime_Environment_Map
+[2019.12.03-10.12.15:410][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.233779s)
+[2019.12.03-10.12.15:411][173]LogAIModule: Creating AISystem for world Realtime_Environment_Map
+[2019.12.03-10.12.15:412][173]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2019.12.03-10.12.15:412][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map to /Game/Environment_Set/Maps/UEDPIE_0_Realtime_Environment_Map.Realtime_Environment_Map (0.235354s)
+[2019.12.03-10.12.15:462][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.12.03-10.12.15:492][173]LogInit: XAudio2 using 'Speaker/Headphone (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-10.12.15:600][173]LogInit: FAudioDevice initialized.
+[2019.12.03-10.12.15:633][173]LogLoad: Game class is 'GameModeBase'
+[2019.12.03-10.12.15:658][173]LogWorld: Bringing World /Game/Environment_Set/Maps/UEDPIE_0_Realtime_Environment_Map.Realtime_Environment_Map up for play (max tick rate 60) at 2019.12.03-11.12.15
+[2019.12.03-10.12.15:669][173]LogWorld: Bringing up level for play took: 0.035474
+[2019.12.03-10.12.15:698][173]PIE: Play in editor start time for /Game/Environment_Set/Maps/UEDPIE_0_Realtime_Environment_Map 1.073
+[2019.12.03-10.12.15:698][173]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map' with GeneratedClass '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map_C' with ClassGeneratedBy '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map'
+[2019.12.03-10.13.37:481][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map' with GeneratedClass '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map_C' with ClassGeneratedBy '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map'
+[2019.12.03-10.13.37:481][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-10.13.37:543][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-10.13.37:544][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map' with GeneratedClass '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map_C' with ClassGeneratedBy '/Game/Environment_Set/Maps/Realtime_Environment_Map.Realtime_Environment_Map:PersistentLevel.Realtime_Environment_Map'
+[2019.12.03-10.13.37:636][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-10.13.37:647][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.12.03-10.13.37:692][167]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.03-10.16.16:584][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.03-10.16.18:593][860]LogSavePackage: Moving 'C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Realtime_Environment_Map_Auto1963A21A14D031BAA9531CEBC2AB174AD.tmp' to 'C:/Users/danie/OneDrive/Dokumenter/GitHub/P3_Interactive/RealtimeEnvironment/Saved/Autosaves/Game/Environment_Set/Maps/Realtime_Environment_Map_Auto1.umap'
+[2019.12.03-10.16.18:603][860]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment_Set/Maps/Realtime_Environment_Map' took 2.048
+[2019.12.03-10.16.18:603][860]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.048
+[2019.12.03-10.26.19:019][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.12.03-10.26.19:019][652]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment_Set/Maps/Realtime_Environment_Map' took 0.032
+[2019.12.03-10.36.19:545][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.12.03-10.36.19:545][442]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment_Set/Maps/Realtime_Environment_Map' took 0.032
+[2019.12.03-10.46.20:107][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.12.03-10.46.20:107][231]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment_Set/Maps/Realtime_Environment_Map' took 0.024
+[2019.12.03-10.56.20:493][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.12.03-10.56.20:494][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment_Set/Maps/Realtime_Environment_Map' took 0.026
+[2019.12.03-11.06.21:075][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.12.03-11.06.21:075][870]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment_Set/Maps/Realtime_Environment_Map' took 0.038
+[2019.12.03-11.16.21:558][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.12.03-11.16.21:558][660]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment_Set/Maps/Realtime_Environment_Map' took 0.024
+[2019.12.03-11.26.22:231][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.12.03-11.26.22:231][453]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment_Set/Maps/Realtime_Environment_Map' took 0.025
+[2019.12.03-11.36.22:782][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.12.03-11.36.22:782][248]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Environment_Set/Maps/Realtime_Environment_Map' took 0.029
