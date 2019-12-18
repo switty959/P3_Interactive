@@ -1,7 +1,26 @@
 # Introduction
-
+This is the group 308's appendix for their product called "Adaptive Narratives".
+This README will show how to install Python, a coding language with an editor called Anaconda
+and how to install Unreal Engine.
+It will explain how to run the final product which can be found in "Final Production".
+lastly there is figure of how the folder structure is.
 
 ## Installation of Python
+go to the Python website to download the newest edition
+Link to python website to download:
+https://www.python.org/downloads/
+
+as for a python editor, Anaconda can be used
+Link for downloading anaconda:
+https://www.anaconda.com/distribution/
+
+follow the link below to install Anaconda
+https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/
+
+and for OpenCV, it can be installed in the anaconda navigator
+Guide for OpenCV with anaconda:
+https://www.youtube.com/watch?v=sQ16qg9DoiQ 
+
 
 ## Installation of Unreal Engine
 to download Unreal Engine, first step is to register an user for epic games.
@@ -22,7 +41,7 @@ Once the Unreal Engine has open the project, press the run button.
 
 ### Running the python program
 When python with libraries has been installed, simple open "OpenCVClient.py" in 
-folder "OpenCVClient", in "OpenCVClient" in "Final production"
+folder "OpenCVClient", in "OpenCVClient" in "Final production" or it can be open through anaconda.
 
 ####Structure of folders:
 |-productions
