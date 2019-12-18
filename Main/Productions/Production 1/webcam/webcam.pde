@@ -53,8 +53,11 @@ void draw() {
   image(image5, videoWidth*2, videoHeight);
   video.loadPixels();
   
-  blur(video,image1,27);
-  greyScale(image1,image2);
+  skinDetection(video,image1);
+  blur(image1, image2);
+  median(image2,image3);
+  dilation(image3,image4);
+  erosion(image4,image5);
   
   
   image1.updatePixels();

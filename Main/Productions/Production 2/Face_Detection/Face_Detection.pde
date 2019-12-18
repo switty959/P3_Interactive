@@ -3,7 +3,7 @@ import processing.video.*;
 Capture video;
 
 color trackColor;
-float threshold = 15;
+float threshold = 60;
 float distanceThreshold = 120;
 int savedTime;
 int totalTime = 300;
@@ -20,7 +20,7 @@ savedTime = millis();
   video = new Capture(this, 640, 480, 30);
   video.start();
   //track red
-  trackColor = color(200,136,120);
+  trackColor = color(255,237,158);
 }
 
 void captureEvent(Capture video) {
