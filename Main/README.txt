@@ -2,8 +2,8 @@
 This is the group 308's appendix for their product called "Adaptive Narratives".
 This README will show how to install Python, a coding language with an editor called Anaconda
 and how to install Unreal Engine.
-It will explain how to run the final product which can be found in "Final Production".
-lastly there is figure of how the folder structure is.
+It will explain how to run the final product which can be found in the "Final Production" folder.
+lastly there is figure of how the folder structure works.
 
 ## Installation of Python
 go to the Python website to download the newest edition
